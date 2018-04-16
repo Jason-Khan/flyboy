@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVRinput.cs">
+    <Files>
+      <File FileName="Assets\OVRinput.cs" Line="45" Column="151" />
+      <File FileName="Assets\coin.cs" Line="14" Column="41" />
+      <File FileName="Assets\trigger.cs" Line="22" Column="28" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\RigidbodyFirstPersonController.cs" Line="180" Column="37" />
+      <File FileName="Assets\coinMaker.cs" Line="10" Column="110" />
+      <File FileName="Assets\score.cs" Line="15" Column="35" />
+      <File FileName="Assets\countdown.cs" Line="18" Column="18" />
+      <File FileName="Assets\scoreEnd.cs" Line="18" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

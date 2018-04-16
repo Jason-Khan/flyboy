@@ -1,5 +1,3 @@
-# FlyBoy VR
-
-A virtual reality game where you use the Oculus Controller to control thrusters on your hands to fly around a computer generated world and collect as many coins as you can within a time limit.
-
-Created by Jason Wang, Brian Liao, Syed Saquib, Arin Nair for SodaHacks 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ebe881a4fdb5557d89261529db594aa02f953eedc8e672fed4a966d22e7990a
+size 288
